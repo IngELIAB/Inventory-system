@@ -1,4 +1,4 @@
-# Inventario SystemX
+# Inventory-system
 ![Imagen](./Inventory-system.webp)
 
 Este es un sistema de gestión de inventarios para una tienda de belleza. Permite realizar el seguimiento de ventas, productos, proveedores y clientes, así como generar reportes y mantener la base de datos actualizada. Este sistema también incluye funcionalidades de facturación, gestión de stock, y alertas cuando los productos están por agotarse.
